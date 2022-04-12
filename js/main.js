@@ -49,14 +49,14 @@ icons.addEventListener("click", () => {
 });
 
 const images = [
-  "/style/images/work-1.jpg",
-  "/style/images/work-2.jpg",
-  "/style/images/work-3.jpg",
-  "/style/images/work-4.jpg",
-  "/style/images/work-5.jpg",
-  "/style/images/work-6.jpg",
-  "/style/images/work-7.jpg",
-  "/style/images/work-8.jpg",
+  "style/images/work-1.jpg",
+  "style/images/work-2.jpg",
+  "style/images/work-3.jpg",
+  "style/images/work-4.jpg",
+  "style/images/work-5.jpg",
+  "style/images/work-6.jpg",
+  "style/images/work-7.jpg",
+  "style/images/work-8.jpg",
 ];
 const Secworks = document.getElementById("section-2");
 
