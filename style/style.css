@@ -223,6 +223,7 @@ header .heading {
 }
 .section-2 .parent:hover .bg-color {
     opacity: 1;
+    transition: .5s;
 }
 .section-2 .parent:hover {
     opacity: 1;
